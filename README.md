@@ -6,15 +6,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahdiporkar-github&label=Profile%20views&color=0e75b6&style=flat" alt="mahdiporkar-github" /> </p>
 
-- 🌱 I’m currently learning **Android Architecture**
+- 🌱 I’m currently learning **Android App Architecture**
 
 - 💬 Ask me about **Android , Kotlin**
+
+- 📝 I regularly write articles on [https://medium.com/@mahdiporkar2002](https://medium.com/@mahdiporkar2002) 
 
 - 📫 How to reach me **MahdiPorkar2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mahdiporkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahdiporkar" height="30" width="40" /></a>
+<a href="https://medium.com/@mahdiporkar2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mahdiporkar2002" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
